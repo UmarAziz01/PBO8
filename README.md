@@ -110,15 +110,19 @@ try {
     ![image](https://github.com/user-attachments/assets/bacfae7d-81df-47a7-8c15-4c366475a361)
 
   - Jika belum memiliki maka buka MS Excel
+    
     ![image](https://github.com/user-attachments/assets/1585f2a0-1882-4074-8458-a847e7420527)
     
   - Pilih 'Blank workbook'
+    
     ![image](https://github.com/user-attachments/assets/ee28d0fb-ea3b-48ce-bf0e-8c2305d29226)
     
   - Masukkan data seperti di gambar
     ![image](https://github.com/user-attachments/assets/c0fbebdb-4396-437a-9697-84ca82a69fcd)
     
   - Masukkan data sesuai format dari database yang telah dibuat agar tidak terjadi error
+    ![image](https://github.com/user-attachments/assets/492b14d3-1fa0-4c7d-9ab1-d0b0c127c3ee)
+
   - lakukan export ke ekstensi CSV dan klik Save As
     ![image](https://github.com/user-attachments/assets/0c542d6a-ae74-45ce-838a-4d46d3720cde)
 
@@ -126,6 +130,7 @@ try {
     ![image](https://github.com/user-attachments/assets/418955df-6e4e-4594-8474-f2cb4eb79b92)
 
   - data baru anda telah masuk kedalam database
+    
     ![image](https://github.com/user-attachments/assets/63e7283f-ca9f-4b43-83b2-3c11b299a8ae)
     ![image](https://github.com/user-attachments/assets/61e3ebef-ac11-4fff-acf0-33746695c63e)
     ![image](https://github.com/user-attachments/assets/ab9e4ac7-278a-4f73-82fc-a5263eca20b1)
